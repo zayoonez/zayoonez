@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8f2e&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 ### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요;김자윤입니다)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8f2e&height=300&section=footer&text=capsule%20render&fontSize=90" />
 
