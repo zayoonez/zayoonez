@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8f2e&height=100&section=header&text=H%20I&fontSize=20" />
 ### 프론트엔드 개발자 김자윤입니다 :)
 
-[js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 
 ## SKILLS
