@@ -1,6 +1,5 @@
 <div align="center"> 
 
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=fff&height=100&section=header&fontSize=20" />
   <br/>
 💡 프론트엔드 개발자 김자윤입니다 💡
 🍀 
