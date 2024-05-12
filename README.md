@@ -1,6 +1,5 @@
 <div align="left"> 
-
-
+ 
 ### ✹ MY FAVORITES
 <br/>
 
